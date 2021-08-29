@@ -7,7 +7,6 @@
 >  1. Если адреса разные изменяет А запись.
 ## Установка
 ```sh
-$ apt-get install apache2 php mysql
 $ git clone https://github.com/teyhd/actualip.git
 ```
 - Заполнить config.php
